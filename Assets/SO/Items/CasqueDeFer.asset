@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3e14f90efe0b364092c265823094446, type: 3}
+  m_Name: CasqueDeFer
+  m_EditorClassIdentifier: 
+  ItemType: 1
+  CorpPos: 0
+  BonusForce: 0
+  BonusDex: 0
+  BonusCon: 0
+  BonusInt: 0
+  TypeArme: 0
+  Degas: 0
+  PenetrationDarmure: 0
+  BonusArmure: 3

@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 0941533131de60d468551141c06a440d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4273805443560799135
+    second: 365-3651436_image-doom-imp-sprites_0
+  - first:
+      213: 6384168049900293739
+    second: 365-3651436_image-doom-imp-sprites_1
+  - first:
+      213: -5570282254996611203
+    second: 365-3651436_image-doom-imp-sprites_2
+  - first:
+      213: 5468673533311514227
+    second: 365-3651436_image-doom-imp-sprites_3
+  - first:
+      213: -4829201672633419253
+    second: 365-3651436_image-doom-imp-sprites_4
+  - first:
+      213: -6088054083254164397
+    second: 365-3651436_image-doom-imp-sprites_5
+  - first:
+      213: 6849425065890144375
+    second: 365-3651436_image-doom-imp-sprites_6
+  - first:
+      213: 2862577423512205240
+    second: 365-3651436_image-doom-imp-sprites_7
+  - first:
+      213: 2184849966686141370
+    second: 365-3651436_image-doom-imp-sprites_8
+  - first:
+      213: 8914687919631043281
+    second: 365-3651436_image-doom-imp-sprites_9
+  - first:
+      213: -8457848017649279284
+    second: 365-3651436_image-doom-imp-sprites_10
+  - first:
+      213: -6300103501459061648
+    second: 365-3651436_image-doom-imp-sprites_11
+  - first:
+      213: -4034191721285147854
+    second: 365-3651436_image-doom-imp-sprites_12
+  - first:
+      213: 156221062815286320
+    second: 365-3651436_image-doom-imp-sprites_13
+  - first:
+      213: -1664981069281568
+    second: 365-3651436_image-doom-imp-sprites_14
+  - first:
+      213: 5181405877792808952
+    second: 365-3651436_image-doom-imp-sprites_15
+  - first:
+      213: -4648296987477075770
+    second: 365-3651436_image-doom-imp-sprites_16
+  - first:
+      213: 4201120977240968993
+    second: 365-3651436_image-doom-imp-sprites_17
+  - first:
+      213: 6433413905741063891
+    second: 365-3651436_image-doom-imp-sprites_18
+  - first:
+      213: -2166370560276717601
+    second: 365-3651436_image-doom-imp-sprites_19
+  - first:
+      213: -5004225407016926521
+    second: 365-3651436_image-doom-imp-sprites_20
+  - first:
+      213: -3668662732971029520
+    second: 365-3651436_image-doom-imp-sprites_21
+  - first:
+      213: -4697332270392968692
+    second: 365-3651436_image-doom-imp-sprites_22
+  - first:
+      213: 7084230549299747492
+    second: 365-3651436_image-doom-imp-sprites_23
+  - first:
+      213: -4690222394837743656
+    second: 365-3651436_image-doom-imp-sprites_24
+  - first:
+      213: -1767255227430187776
+    second: 365-3651436_image-doom-imp-sprites_25
+  - first:
+      213: -609217826221469539
+    second: 365-3651436_image-doom-imp-sprites_26
+  - first:
+      213: -3743441016498859422
+    second: 365-3651436_image-doom-imp-sprites_27
+  - first:
+      213: 1543018288355132169
+    second: 365-3651436_image-doom-imp-sprites_28
+  - first:
+      213: -2137848560568927447
+    second: 365-3651436_image-doom-imp-sprites_29
+  - first:
+      213: -1239611257783861357
+    second: 365-3651436_image-doom-imp-sprites_30
+  - first:
+      213: -7972105582674041439
+    second: 365-3651436_image-doom-imp-sprites_31
+  - first:
+      213: 3572087959089958902
+    second: 365-3651436_image-doom-imp-sprites_32
+  - first:
+      213: -2473874695991294807
+    second: 365-3651436_image-doom-imp-sprites_33
+  - first:
+      213: 4818806190915715169
+    second: 365-3651436_image-doom-imp-sprites_34
+  - first:
+      213: -2949158566670577488
+    second: 365-3651436_image-doom-imp-sprites_35
+  - first:
+      213: 649601341329963506
+    second: 365-3651436_image-doom-imp-sprites_36
+  - first:
+      213: -8126880431316384723
+    second: 365-3651436_image-doom-imp-sprites_37
+  - first:
+      213: 721556899521178462
+    second: 365-3651436_image-doom-imp-sprites_38
+  - first:
+      213: 4409745625905537884
+    second: 365-3651436_image-doom-imp-sprites_39
+  - first:
+      213: -1471922082378190524
+    second: 365-3651436_image-doom-imp-sprites_40
+  - first:
+      213: -6500196180053632340
+    second: 365-3651436_image-doom-imp-sprites_41
+  - first:
+      213: -8609311503817114958
+    second: 365-3651436_image-doom-imp-sprites_42
+  - first:
+      213: -1001720175744405658
+    second: 365-3651436_image-doom-imp-sprites_43
+  - first:
+      213: -1502518610156242097
+    second: 365-3651436_image-doom-imp-sprites_44
+  - first:
+      213: -7147628226441142760
+    second: 365-3651436_image-doom-imp-sprites_45
+  - first:
+      213: 735309018642113452
+    second: 365-3651436_image-doom-imp-sprites_46
+  - first:
+      213: 6707864526234549921
+    second: 365-3651436_image-doom-imp-sprites_47
+  - first:
+      213: -2609764230098374142
+    second: 365-3651436_image-doom-imp-sprites_48
+  - first:
+      213: -4713451908199975917
+    second: 365-3651436_image-doom-imp-sprites_49
+  - first:
+      213: 8883939354432158175
+    second: 365-3651436_image-doom-imp-sprites_50
+  - first:
+      213: -4932457823225159954
+    second: 365-3651436_image-doom-imp-sprites_51
+  - first:
+      213: -1078906460840377629
+    second: 365-3651436_image-doom-imp-sprites_52
+  - first:
+      213: -4555913519428173880
+    second: 365-3651436_image-doom-imp-sprites_53
+  - first:
+      213: 2446546213775817277
+    second: 365-3651436_image-doom-imp-sprites_54
+  - first:
+      213: 7266779803297914622
+    second: 365-3651436_image-doom-imp-sprites_55
+  - first:
+      213: 8493040188719766433
+    second: 365-3651436_image-doom-imp-sprites_56
+  - first:
+      213: 2450161417866170278
+    second: 365-3651436_image-doom-imp-sprites_57
+  - first:
+      213: 3852161080493680104
+    second: 365-3651436_image-doom-imp-sprites_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 365-3651436_image-doom-imp-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fd34c3dc162b2b0800000000000000
+      internalID: -5570282254996611203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 365-3651436_image-doom-imp-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 413
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b7296486b9f4b30800000000000000
+      internalID: 4273805443560799135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 365-3651436_image-doom-imp-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 413
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e84b0440f199850800000000000000
+      internalID: 6384168049900293739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 365-3651436_image-doom-imp-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 413
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376fc91ba91a4eb40800000000000000
+      internalID: 5468673533311514227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
